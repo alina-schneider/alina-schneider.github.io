@@ -2,12 +2,18 @@ project:
   type: website
 
 website:
-  title: "alina-schneider.github.io"
+  title: "Alina Schneider"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about-me.qmd
+        text: About Me
+      - href: CV.qmd
+        text: Curriculum Vitae
+      - href: projects.qmd
+        text: Projects
+      
 
 format:
   html:
