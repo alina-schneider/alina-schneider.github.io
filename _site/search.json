@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Alina Schneider",
+    "section": "",
+    "text": "&lt;img src=“images/CV_Schneider.pdf”“&gt;"
+  },
+  {
+    "objectID": "works.html",
+    "href": "works.html",
+    "title": "My Work",
+    "section": "",
+    "text": "Nothing to see yet."
+  },
+  {
+    "objectID": "works.html#papers",
+    "href": "works.html#papers",
+    "title": "My Work",
+    "section": "",
+    "text": "Nothing to see yet."
+  },
+  {
+    "objectID": "works.html#preprints",
+    "href": "works.html#preprints",
+    "title": "My Work",
+    "section": "Preprints",
+    "text": "Preprints"
+  },
+  {
+    "objectID": "works.html#work-in-progress",
+    "href": "works.html#work-in-progress",
+    "title": "My Work",
+    "section": "Work in Progress",
+    "text": "Work in Progress"
+  },
+  {
+    "objectID": "about-me.html",
+    "href": "about-me.html",
+    "title": "Hello there!",
+    "section": "",
+    "text": "I am employed as a University Assistant (PhD candidate) in the Social and Economic Psychology Group led by Prof. Dr. Robert Böhm at the University of Vienna (AT) since November 2024. My current research focuses on the cognitive and behavioural factors influencing antibiotic use and the growing challenge of antimicrobial resistance. More generally, I am interested in social and behavioural aspects of and interventions related to health decision-making."
+  }
+]

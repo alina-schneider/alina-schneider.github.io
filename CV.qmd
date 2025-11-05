@@ -1,0 +1,5 @@
+---
+title: "Curriculum Vitae"
+---
+
+<embed title="Curriculum Vitae" src="images/CV_Schneider_2025.pdf" width="100%" height="480" />

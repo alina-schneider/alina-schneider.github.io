@@ -11,8 +11,8 @@ website:
         text: About Me
       - href: CV.qmd
         text: Curriculum Vitae
-      - href: projects.qmd
-        text: Projects
+      - href: works.qmd
+        text: Works
       
 
 format:

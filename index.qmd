@@ -1,11 +1,15 @@
 ---
-title: "alina-schneider.github.io"
+title: ""
 ---
 
-This is a Quarto website.
+<div style="text-align: center;">
+  <img src="images/csm_Schneider_b909236961 Kopie.jpg" style="border-radius: 50%; width: 250px;">
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Contact
 
-```{r}
-1 + 1
-```
+Say hi via [alina.katharina.schneider@univie.ac.at](mailto:alina.katharina.schneider@univie.ac.at).
+
+Find me on:
+
+[{{< iconify fa7-brands:orcid size=2xl >}}](https://orcid.org/0009-0007-9103-5426) [{{< iconify fa6-brands:bluesky size=2xl >}}](https://bsky.app/profile/schneali.bsky.social) [{{< iconify mdi:linkedin size=2xl >}}](https://www.linkedin.com/in/alina-schneider-15911b262/)
