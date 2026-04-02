@@ -19,7 +19,6 @@ format:
   html:
     theme:
       - flatly
-    linkcolor: #C11C84
     css: styles.css
     toc: true
 
