@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "about-me.html",
-    "href": "about-me.html",
-    "title": "Bio",
-    "section": "",
-    "text": "I am a University Assistant (PhD candidate) in the Social and Economic Psychology Group led by Prof. Dr. Robert Böhm at the University of Vienna (AT) since November 2024. My current research focuses on the cognitive and behavioural factors influencing antibiotic use and the growing challenge of antimicrobial resistance. More generally, I am interested in social and behavioural aspects of and interventions related to health decision-making."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
-  },
-  {
     "objectID": "works.html",
     "href": "works.html",
     "title": "Work",
     "section": "",
-    "text": "Nothing to see yet."
+    "text": "Böhm, R., Gross, R., Korn, L., Schneider, A., Sievert, E. D. C., & Betsch, C. (2026). Antibiotikaeinsatz: Psychologische Einflussfaktoren auf die Wahrnehmung und das Verhalten von Ärztinnen und Patientinnen. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz. [Link Text] (https://doi.org/10.1007/s00103-026-04225-7)"
   },
   {
     "objectID": "works.html#papers",
     "href": "works.html#papers",
     "title": "Work",
     "section": "",
-    "text": "Nothing to see yet."
+    "text": "Böhm, R., Gross, R., Korn, L., Schneider, A., Sievert, E. D. C., & Betsch, C. (2026). Antibiotikaeinsatz: Psychologische Einflussfaktoren auf die Wahrnehmung und das Verhalten von Ärztinnen und Patientinnen. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz. [Link Text] (https://doi.org/10.1007/s00103-026-04225-7)"
   },
   {
     "objectID": "works.html#preprints",
@@ -40,5 +26,19 @@
     "title": "Work",
     "section": "Work in Progress",
     "text": "Work in Progress"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
+  },
+  {
+    "objectID": "about-me.html",
+    "href": "about-me.html",
+    "title": "Bio",
+    "section": "",
+    "text": "I am a University Assistant (PhD candidate) in the Social and Economic Psychology Group led by Prof. Dr. Robert Böhm at the University of Vienna (AT) since November 2024. My current research focuses on the cognitive and behavioural factors influencing antibiotic use and the growing challenge of antimicrobial resistance. More generally, I am interested in social and behavioural aspects of and interventions related to health decision-making."
   }
 ]
