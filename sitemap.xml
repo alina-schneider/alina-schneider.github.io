@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alina-schneider.github.io/CV.html</loc>
-    <lastmod>2026-04-07T08:37:31.450Z</lastmod>
-  </url>
-  <url>
     <loc>https://alina-schneider.github.io/works.html</loc>
-    <lastmod>2026-04-07T08:37:31.459Z</lastmod>
+    <lastmod>2026-05-04T14:27:15.051Z</lastmod>
   </url>
   <url>
     <loc>https://alina-schneider.github.io/about.html</loc>
-    <lastmod>2026-04-07T08:37:31.457Z</lastmod>
+    <lastmod>2026-05-04T14:27:15.049Z</lastmod>
   </url>
   <url>
-    <loc>https://alina-schneider.github.io/index.html</loc>
-    <lastmod>2026-04-07T08:37:31.457Z</lastmod>
+    <loc>https://alina-schneider.github.io/CV.html</loc>
+    <lastmod>2026-05-04T14:27:15.042Z</lastmod>
   </url>
   <url>
     <loc>https://alina-schneider.github.io/about-me.html</loc>
-    <lastmod>2026-04-07T08:37:31.457Z</lastmod>
+    <lastmod>2026-05-04T14:27:15.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alina-schneider.github.io/index.html</loc>
+    <lastmod>2026-05-04T14:27:15.050Z</lastmod>
   </url>
 </urlset>
