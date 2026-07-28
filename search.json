@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
+  },
+  {
     "objectID": "about-me.html",
     "href": "about-me.html",
     "title": "Bio",
@@ -11,14 +18,14 @@
     "href": "works.html",
     "title": "Work",
     "section": "",
-    "text": "Böhm, R., Schneider, A., Betsch, C., & Lilleholt, L. (2026). CDC communication undermines trust in vaccines. Science, 392(6797), 475–477. https://doi.org/10.1126/science.aef5320\nBöhm, R., Gross, R., Korn, L., Schneider, A., Sievert, E. D. C., & Betsch, C. (2026). Antibiotikaeinsatz: Psychologische Einflussfaktoren auf die Wahrnehmung und das Verhalten von Ärztinnen und Patientinnen. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz. https://doi.org/10.1007/s00103-026-04225-7"
+    "text": "Schneider, A., Sirota, M., Gross, R., Korn, L., Sievert, E. D. C., Betsch, C., & Böhm, R. (2026). Willful ignorance in the context of antibiotic prescribing. Journal of Experimental Social Psychology, 127, 104965. https://doi.org/10.1016/j.jesp.2026.104965\nBöhm, R., Schneider, A., Betsch, C., & Lilleholt, L. (2026). CDC communication undermines trust in vaccines. Science, 392(6797), 475–477. https://doi.org/10.1126/science.aef5320\nBöhm, R., Gross, R., Korn, L., Schneider, A., Sievert, E. D. C., & Betsch, C. (2026). Antibiotikaeinsatz: Psychologische Einflussfaktoren auf die Wahrnehmung und das Verhalten von Ärztinnen und Patientinnen. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz. https://doi.org/10.1007/s00103-026-04225-7"
   },
   {
     "objectID": "works.html#papers",
     "href": "works.html#papers",
     "title": "Work",
     "section": "",
-    "text": "Böhm, R., Schneider, A., Betsch, C., & Lilleholt, L. (2026). CDC communication undermines trust in vaccines. Science, 392(6797), 475–477. https://doi.org/10.1126/science.aef5320\nBöhm, R., Gross, R., Korn, L., Schneider, A., Sievert, E. D. C., & Betsch, C. (2026). Antibiotikaeinsatz: Psychologische Einflussfaktoren auf die Wahrnehmung und das Verhalten von Ärztinnen und Patientinnen. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz. https://doi.org/10.1007/s00103-026-04225-7"
+    "text": "Schneider, A., Sirota, M., Gross, R., Korn, L., Sievert, E. D. C., Betsch, C., & Böhm, R. (2026). Willful ignorance in the context of antibiotic prescribing. Journal of Experimental Social Psychology, 127, 104965. https://doi.org/10.1016/j.jesp.2026.104965\nBöhm, R., Schneider, A., Betsch, C., & Lilleholt, L. (2026). CDC communication undermines trust in vaccines. Science, 392(6797), 475–477. https://doi.org/10.1126/science.aef5320\nBöhm, R., Gross, R., Korn, L., Schneider, A., Sievert, E. D. C., & Betsch, C. (2026). Antibiotikaeinsatz: Psychologische Einflussfaktoren auf die Wahrnehmung und das Verhalten von Ärztinnen und Patientinnen. Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz. https://doi.org/10.1007/s00103-026-04225-7"
   },
   {
     "objectID": "works.html#preprints",
@@ -33,12 +40,5 @@
     "title": "Work",
     "section": "Work in Progress",
     "text": "Work in Progress"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
   }
 ]
