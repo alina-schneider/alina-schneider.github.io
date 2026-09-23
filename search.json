@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
-  },
-  {
     "objectID": "about-me.html",
     "href": "about-me.html",
     "title": "Bio",
@@ -46,6 +39,13 @@
     "href": "works.html#featured",
     "title": "Work",
     "section": "Featured",
-    "text": "Featured\nSchrödingers Katze – Der österreichische Wissenschaftsblog"
+    "text": "Featured\nCharacter & Context\nSchrödingers Katze – Der österreichische Wissenschaftsblog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nSay hi via alina.katharina.schneider@univie.ac.at.\nFind me on:"
   }
 ]
